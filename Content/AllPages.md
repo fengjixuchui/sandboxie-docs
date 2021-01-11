@@ -50,6 +50,8 @@
 
 [Closed Key Path](ClosedKeyPath.md)
 
+[Code Injection](CodeInjection.md)
+
 [Config Level](ConfigLevel.md)
 
 [Configuration Protection](ConfigurationProtection.md)
@@ -59,8 +61,6 @@
 [Copy Limit Kb](CopyLimitKb.md)
 
 [Copy Limit Silent](CopyLimitSilent.md)
-
-[Corporate Installation](CorporateInstallation.md)
 
 ### D
 
@@ -94,9 +94,9 @@
 
 ### F
 
-[FAQ Email](FAQ_Email.md)
+[FAQ Email](FAQEmail.md)
 
-[FAQ Virus](FAQ_Virus.md)
+[FAQ Virus](FAQVirus.md)
 
 [File Menu](FileMenu.md)
 
@@ -105,8 +105,6 @@
 [File Root Path](FileRootPath.md)
 
 [Files And Folders View](FilesAndFoldersView.md)
-
-[Find Page](FindPage.md)
 
 [Firefox Tips](FirefoxTips.md)
 
@@ -144,8 +142,6 @@
 
 [Help Topics](HelpTopics.md)
 
-[Home Use](HomeUse.md)
-
 [How It Works](HowItWorks.md)
 
 [How To Use Win Dbg](HowToUseWinDbg.md)
@@ -168,8 +164,6 @@
 
 [Key Root Path](KeyRootPath.md)
 
-[Known Conflicts](KnownConflicts.md)
-
 ### L
 
 [Leader Process](LeaderProcess.md)
@@ -183,8 +177,6 @@
 [Monitor Admin Only](MonitorAdminOnly.md)
 
 ### N
-
-[Network Files](NetworkFiles.md)
 
 [Never Delete](NeverDelete.md)
 
@@ -259,8 +251,6 @@
 [Recover Folder](RecoverFolder.md)
 
 [Recovery Settings](RecoverySettings.md)
-
-[Register Sandboxie](RegisterSandboxie.md)
 
 [Resource Access](ResourceAccess.md)
 
@@ -534,9 +524,9 @@
 
 [SBIE9305](SBIE9305.md)
 
-[SBIE DLL API](SBIE_DLL_API.md)
+[SBIE DLL API](SBIEDLLAPI.md)
 
-[SBIE Messages](SBIE_Messages.md)
+[SBIE Messages](SBIEMessages.md)
 
 [Sandbox Hierarchy](SandboxHierarchy.md)
 
@@ -562,11 +552,11 @@
 
 ### T
 
+[Technical Aspects](TechnicalAspects.md)
+
 [Test Email Configuration](TestEmailConfiguration.md)
 
 [Tray Icon Menu](TrayIconMenu.md)
-
-[Trusted Logos](TrustedLogos.md)
 
 ### U
 
@@ -576,8 +566,6 @@
 
 ### V
 
-[Version Changes](VersionChanges.md)
-
 [View Menu](ViewMenu.md)
 
 ### W
@@ -586,7 +574,7 @@
 
 [Windows Vista 64](WindowsVista64.md)
 
-[Windows XP Mode](Windows_XP_Mode.md)
+[Windows XP Mode](WindowsXPMode.md)
 
 [Write File Path](WriteFilePath.md)
 
