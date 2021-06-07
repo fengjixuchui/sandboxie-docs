@@ -3,37 +3,37 @@
 
 ### Overview
 
-*   [What is Sandboxie and how is it different than other solutions?](FrequentlyAskedQuestions#WhatIsSandboxie)
-*   [How safe would I be, by using Sandboxie?](FrequentlyAskedQuestions#HowSafe)
-*   [Do I need other solutions if I use Sandboxie?](FrequentlyAskedQuestions#NeedOtherSolutions)
-*   [What kinds of programs can I run using Sandboxie?](FrequentlyAskedQuestions#SandboxablePrograms)
-*   [What are the technical requirements to run Sandboxie?](FrequentlyAskedQuestions#Requirements)
+*   [What is Sandboxie and how is it different than other solutions?](#what-is-sandboxie-and-how-is-it-different-than-other-solutions)
+*   [How safe would I be, by using Sandboxie?](#how-safe-would-i-be-by-using-sandboxie)
+*   [Do I need other solutions if I use Sandboxie?](#do-i-need-other-solutions-if-i-use-sandboxie)
+*   [What kinds of programs can I run using Sandboxie?](#what-kinds-of-programs-can-i-run-using-sandboxie)
+*   [What are the technical requirements to run Sandboxie?](#what-are-the-requirements-to-run-sandboxie)
 
 ### Technical
 
-*   [How does Sandboxie protect me, technically?](FrequentlyAskedQuestions#HowItWorks)
-*   [Will Sandboxie protect me from malicious key-loggers?](FrequentlyAskedQuestions#KeyLoggers)
-*   [Some competing products require a reboot to initiate sandboxing, why?](FrequentlyAskedQuestions#RebootNeeded)
-*   [Why am I getting some Messages from Sandbox Driver?](FrequentlyAskedQuestions#CommonMessages)
-*   [Why are so many files copied into the sandbox?](FrequentlyAskedQuestions#TooManyFiles)
-*   [What are SandboxieRpcSs and SandboxieDcomLaunch?](FrequentlyAskedQuestions#SandboxieRpcss)
-*   [How can I use Sandboxie to protect myself from viruses in email?](FrequentlyAskedQuestions#EmailProtection)
-*   [How to configure Sandboxie for only an occasional use?](FrequentlyAskedQuestions#OccasionalUse)
+*   [How does Sandboxie protect me, technically?](#how-does-sandboxie-protect-me-technically)
+*   [Will Sandboxie protect me from malicious key-loggers?](#will-sandboxie-protect-me-from-malicious-key-loggers)
+*   [Some competing products require a reboot to initiate sandboxing, why?](#some-competing-products-require-a-reboot-to-initiate-sandboxing-why)
+*   [Why am I getting some Messages from Sandbox Driver?](#why-am-i-getting-some-messages-from-sandbox-driver)
+*   [Why are so many files copied into the sandbox?](#why-are-so-many-files-copied-into-the-sandbox)
+*   [What are SandboxieRpcSs and SandboxieDcomLaunch?](#what-are-sandboxierpcss-and-sandboxiedcomlaunch)
+*   [How can I use Sandboxie to protect myself from viruses in email?](#how-can-i-use-sandboxie-to-protect-myself-from-viruses-in-email)
+*   [How to configure Sandboxie for only an occasional use?](#how-to-configure-sandboxie-for-only-an-occasional-use)
 
 ### Problems
 
-*   [How do I make Quick Recovery show my saved favorites and downloads?](FrequentlyAskedQuestions#QuickRecovery)
-*   [I saved a downloaded file, a document or an email inside the sandbox, how do I get it out?](FrequentlyAskedQuestions#SavedInSandbox)
-*   [Why does the wrong program start when I run my default Web browser sandboxed?](FrequentlyAskedQuestions#WrongBrowser)
-*   If you have a program that doesn't work properly sandboxed, please look it up on the [Known Conflicts](KnownConflicts.md) page before posting a problem report.
+*   [How do I make Quick Recovery show my saved favorites and downloads?](#how-do-i-make-quick-recovery-show-my-saved-favorites-and-downloads)
+*   [I saved a downloaded file, a document or an email inside the sandbox, how do I get it out?](#i-saved-a-downloaded-file-a-document-or-an-email-inside-the-sandbox-how-do-i-get-it-out)
+*   [Why does the wrong program start when I run my default Web browser sandboxed?](#why-does-the-wrong-program-start-when-i-run-my-default-web-browser-sandboxed)
+*   If you have a program that doesn't work properly sandboxed, please look it up on the [Known Conflicts](SandboxieKnownConflicts.md) page before posting a problem report.
 
 * * *
 
-Back to HelpTopics.
+Back to [HelpTopics](HelpTopics.md)
 
 * * *
 
-<a name="WhatIsSandboxie" id="WhatIsSandboxie"></a>**What is Sandboxie and how is it different than other solutions?**
+### What is Sandboxie and how is it different than other solutions?
 
 Think of your PC as a piece of paper. Every program you run writes on the paper. When you run your browser, it writes on the paper about every site you visited. And any malware you come across will usually try to write itself into the paper.
 
@@ -45,11 +45,11 @@ On the other hand, the Sandboxie sandbox works like a transparency layer placed 
 
 Thanks to _esalkin_ for the paper metaphore. Thanks to _warwagon_ for the graphics.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Overview)**
+**Back to [Table of Contents](#overview)**
 
 * * *
 
-**How safe would I be, by using Sandboxie?**
+### How safe would I be, by using Sandboxie?
 
 You would be quite safe using Sandboxie. It should be noted that, from time to time, people are able to find some vulnerability in Sandboxie, an open hole through which malicious software can still infiltrate the system.
 
@@ -57,11 +57,11 @@ This is extremely rare and is quickly resolved by closing the hole that is the a
 
 Thus it's a good idea to have more traditional anti-malware software. This is is the subject of the following question.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Overview)**
+**Back to [Table of Contents](#overview)**
 
 * * *
 
-<a name="NeedOtherSolutions" id="NeedOtherSolutions"></a>**Do I need other solutions if I use Sandboxie?**
+### Do I need other solutions if I use Sandboxie?
 
 Sandboxie may be your first line of defense, but it should certainly be complemented by the more traditional anti-virus and anti-malware solutions. These solutions can let you know if your system does become infected in any way.
 
@@ -69,19 +69,19 @@ Typically, those other solutions employ various forms of pattern matching to dis
 
 The combination of the two approaches should keep malicious software -- which is serving the interest of other unknown parties -- out of your computer.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Overview)**
+**Back to [Table of Contents](#overview)**
 
 * * *
 
-<a name="SandboxablePrograms" id="SandboxablePrograms"></a>**What kinds of programs can I run using Sandboxie?**
+### What kinds of programs can I run using Sandboxie?
 
 You should be able to run most applications sandboxed.
 
-*   Major Web browsers (Microsoft Edge is not supported at this time)
+*   Major Web browsers
 *   Mail and news readers
 *   instant messengers and chat clients
 *   peer-to-peer networking
-*   Office Suites (Libre Office, OpenOffice) (Support for MS Office 2016/Office365 is offered for the paid version)
+*   Office Suites (MS Office, LibreOffice, OpenOffice)
 *   Most games
     *   in particular, online games which download extension software code
 
@@ -89,33 +89,33 @@ In all cases on this list, your client-side program is exposed to remote softwar
 
 And in addition, you can even _install_ some applications into the sandbox.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Overview)**
+**Back to [Table of Contents](#overview)**
 
 * * *
 
-<a name="Requirements" id="Requirements"></a>**What are the requirements to run Sandboxie?**
+### What are the requirements to run Sandboxie?
 
 Sandboxie works on
 
-*   Windows XP SP3 (Up until Sandboxie 5.22 )
+*   Windows XP SP3 (Up until Sandboxie 5.22 and solely in [v5.40](https://github.com/sandboxie-plus/Sandboxie/releases/tag/v5.40))
 *   Windows 7 (32/64)
 *   Windows 8.1 (32/64)
-*   Windows 10 (32/64)(Edge browser & Metro(tile) Apps not supported)
-*   Windows 10 Insider Preview (Fast Ring) supported in Beta builds that are released in the User Forum
-*   There is some support for older 64-bit versions of Windows: see [the download page](DownloadSandboxie.md).
+*   Windows 10 (32/64)(Metro(tile) Apps not supported)
+
+See [the download page](https://github.com/sandboxie-plus/Sandboxie/releases).
 
 Supported Web Browsers (32 & 64 bit supported)
 
-*   Firefox
+*   Internet Explorer 8, 9, 10 & 11
+*   Microsoft Edge (Chromium)
 *   Google Chrome
+*   Firefox
 *   Opera
-*   Cyberfox
+*   PaleMoon
 *   SeaMonkey
 *   Vivaldi
-*   Internet Explorer 8, 9, 10 & 11
 *   Waterfox
-*   Nightly Builds of FF
-*   Chromium
+*   Brave Browser
 *   And many others!
 
 Sandboxie does not work on...
@@ -132,11 +132,11 @@ There are no particular hardware requirements to run Sandboxie. However, we do n
 
 Sandboxie needs only a small amount of memory and should have a very small impact on performance.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions.html#Overview)**
+**Back to [Table of Contents](#overview)**
 
 * * *
 
-<a name="HowItWorks" id="HowItWorks"></a>**How does Sandboxie protect me, technically?**
+### How does Sandboxie protect me, technically?
 
 Sandboxie extends the operating system (OS) with sandboxing capabilities by blending into it. Applications can never access hardware such as disk storage directly, they have to ask the OS to do it for them. Since Sandboxie integrates into the OS, it can do what it does without risk of being circumvented.
 
@@ -148,11 +148,11 @@ Sandboxie also prevents programs executing inside the sandbox from loading drive
 
 It should be noted, however, that Sandboxie does not typically stop sandboxed programs from reading your sensitive data. However, by careful configuration of the [ClosedFilePath](ClosedFilePath.md) and [ClosedKeyPath](ClosedKeyPath.md) settings, you can achieve this goal as well.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Technical)**
+**Back to [Table of Contents](#technical)**
 
 * * *
 
-<a name="KeyLoggers" id="KeyLoggers"></a>**Will Sandboxie protect me from malicious key-loggers?**
+### Will Sandboxie protect me from malicious key-loggers?
 
 Yes, to some extent. First of all, your system (outside the sandbox) must not have been already compromised by an installed key-logger. Sandboxie can not protect against key-loggers that are already running outside the sandbox.
 
@@ -162,11 +162,11 @@ It is very difficult to reliably detect a key-logger. For a lengthy explanation,
 
 When you stop all sandboxed activity (in all sandboxes), then proceed to delete the sandbox you're about to use, you can be fairly certain that all key-loggers are dead.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Technical)**
+**Back to [Table of Contents](#technical)**
 
 * * *
 
-<a name="RebootNeeded" id="RebootNeeded"></a>**Some competing products require a reboot to initiate sandboxing, why?**
+### Some competing products require a reboot to initiate sandboxing, why?
 
 Changes to the computing environment must eventually make their way to disk storage, if they are to be permanent. This obviously applies to files. But it also applies to things like settings and preferences saved in the system registry.
 
@@ -180,43 +180,43 @@ This low-level sandboxing in some competing products makes it possible to instal
 
 It becomes apparent that, like most other things, each tool has its advantages and disadvantages, and one must choose the best tool for the task at hand.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Technical)**
+**Back to [Table of Contents](#technical)**
 
 * * *
 
-<a name="CommonMessages" id="CommonMessages"></a>**Why am I getting some Messages from Sandbox Driver?**
+### Why am I getting some Messages from Sandbox Driver?
 
-Not all messages are errors, some simply inform you of an event that has occurred. For more information, see [SBIE Messages](SBIE_Messages).
+Not all messages are errors, some simply inform you of an event that has occurred. For more information, see [SBIE Messages](SBIEMessages.md).
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Technical)**
+**Back to [Table of Contents](#technical)**
 
 * * *
 
-<a name="TooManyFiles" id="TooManyFiles"></a>**Why are so many files copied into the sandbox?**
+### Why are so many files copied into the sandbox?
 
 When a program accesses a file, it declares what operations it plans to do on the file: if it plans to read from the file, to write the file, to change its attributes, and so on. Whenever a program declares any kind of write access to a file, Sandboxie copies it into the sandbox. In some cases, programs declare they intend to write to the file when in fact they do not, but nevertheless Sandboxie must copy the file into the sandbox.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions.html#Technical)**
+**Back to [Table of Contents](#technical)**
 
 * * *
 
-<a name="SandboxieRpcss" id="SandboxieRpcss"></a>**What are SandboxieRpcSs and SandboxieDcomLaunch?**
+### What are SandboxieRpcSs and SandboxieDcomLaunch?
 
 See [Service Programs](ServicePrograms.md).
 
-**Back to [Table of Contents](FrequentlyAskedQuestions.html#Technical)**
+**Back to [Table of Contents](#technical)**
 
 * * *
 
-<a name="EmailProtection" id="EmailProtection"></a>**How can I use Sandboxie to protect myself from viruses in email?**
+### How can I use Sandboxie to protect myself from viruses in email?
 
 See full article: [Email Protection](EmailProtection.md).
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Technical)**
+**Back to [Table of Contents](#technical)**
 
 * * *
 
-<a name="OccasionalUse" id="OccasionalUse"></a>**How to configure Sandboxie for only an occasional use?**
+### How to configure Sandboxie for only an occasional use?
 
 By default Sandboxie is configured to load and start automatically. To have Sandboxie load only when you need it, make the following changes.
 
@@ -228,35 +228,39 @@ By default Sandboxie is configured to load and start automatically. To have Sand
 
 Starting Sandboxie Control will also start the service. (But note that Administrative rights are required to start a service.)
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Technical)**
+**Back to [Table of Contents](#technical)**
 
 * * *
 
-<a name="QuickRecovery" id="QuickRecovery"></a>**How do I make Quick Recovery show my saved favorites and downloads?**
+### How do I make Quick Recovery show my saved favorites and downloads?
 
-You may not see all your folders in Quick Recovery, as only a few are configured by default in the initial installation. See also QuickRecovery.
+You may not see all your folders in Quick Recovery, as only a few are configured by default in the initial installation. See also [Quick Recovery](QuickRecovery.md).
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Problems)**
+**Back to [Table of Contents](#problems)**
 
 * * *
 
-<a name="SavedInSandbox" id="SavedInSandbox"></a>**I saved a downloaded file, a document or an email inside the sandbox, how do I get it out?**
+### I saved a downloaded file, a document or an email inside the sandbox, how do I get it out?
 
-If you read [What is Sandboxie](FrequentlyAskedQuestions#WhatIsSandboxie) then you know Sandboxie is like a transparency layer placed over the paper. (The paper is your computer.) When you save files (downloads, documents, emails, or anything else) through a sandboxed program, these files go into the transparency layer that is the sandbox.
+If you read [What is Sandboxie](#what-is-sandboxie-and-how-is-it-different-than-other-solutions) then you know Sandboxie is like a transparency layer placed over the paper. (The paper is your computer.) When you save files (downloads, documents, emails, or anything else) through a sandboxed program, these files go into the transparency layer that is the sandbox.
 
-You can use QuickRecovery to get these files out. Unless configured otherwise, QuickRecovery looks in your My Documents folder, and Desktop folder. If you save the files to either of these folders, then you can use QuickRecovery to easily get them out.
+You can use Quick Recovery to get these files out. Unless configured otherwise, Quick Recovery looks in your _Documents_, _Favorites_, _Desktop_ and _Downloads_ folders. If you save the files to either of these folders, then you can use Quick Recovery to easily get them out.
 
-Another approach is configuring one or more folders as an OpenFilePath. Saving files into such folders bypasses the sandbox mechanism, and goes directly to the real folders. Setting this is more complicated, but may also prove useful, in some cases.
+Another approach is configuring one or more folders as an [OpenFilePath](OpenFilePath.md). Saving files into such folders bypasses the sandbox mechanism, and goes directly to the real folders. Setting this is more complicated, but may also prove useful, in some cases.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Problems)**
+**Back to [Table of Contents](#problems)**
 
-<a name="WrongBrowser" id="WrongBrowser"></a>**Why does the wrong program start when I run my default Web browser sandboxed?**
+* * *
 
-This happens for some people. Try this program:
+### Why does the wrong program start when I run my default Web browser sandboxed?
 
-[http://www.winhelponline.com/xp/defaultbrowser.htm](http://www.winhelponline.com/xp/defaultbrowser.htm)
+This happens for some people.
 
-If using Windows 10, ensure that your default Web Browser for Windows is set correctly (Click on the Start menu, type "default app settings" and Choose your default apps).
+In Windows 7, open Control Panel in Icon view and select Default Programs > Set your default programs. You can then select the browser you want as default.
 
-**Back to [Table of Contents](FrequentlyAskedQuestions#Problems)**
+In Windows 8/8.1, point to (but do not click) the lower-right or top-right corner of the screen, and then click the Settings icon. In the lower-right corner, click Change PC Settings > Search and apps > Defaults. You can then select the browser you want as default.
+
+If using Windows 10, ensure that your default Web Browser for Windows is set correctly (click on the Start menu, type "default app settings" and Choose your default apps).
+
+**Back to [Table of Contents](#problems)**
 

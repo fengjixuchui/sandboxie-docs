@@ -23,7 +23,7 @@ Normally, Sandboxie will not permit a sandboxed program to access, communicate, 
    OpenWinClass=$:program.exe
 ```
 
-Permits a program running inside the sandbox to use the PostThreadMessage API to send a message directly to a thread in a target process running outside the sandbox. This form of the _OpenWinClass_ setting does not support wildcards, so the process name of the target process must match the name specified in the setting.
+Windows XP only - it permits a program running inside the sandbox to use the PostThreadMessage API to send a message directly to a thread in a target process running outside the sandbox. This form of the _OpenWinClass_ setting does not support wildcards, so the process name of the target process must match the name specified in the setting.
 ```
    OpenWinClass=#
 ```
@@ -43,4 +43,4 @@ Note that OpenWinClass=* allows full communication with all windows outside the 
 
 **Identifying Window Class Names**
 
-The unsandboxed windows are identified by their _window class name_, which is an internal name given to the window by the application that created it. You can use a tool like [WinSpy](http://www.catch22.net/software/winspy.asp) to identify window class names. The [Resource Access Monitor](ResourceAccessMonitor.md) tool in Sandboxie also displays window class names.
+The unsandboxed windows are identified by their _window class name_, which is an internal name given to the window by the application that created it. You can use a tool like [WinSpy](https://www.catch22.net/software/winspy) to identify window class names. The [Resource Access Monitor](ResourceAccessMonitor.md) tool in Sandboxie also displays window class names.

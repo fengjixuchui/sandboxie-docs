@@ -20,9 +20,9 @@
 
 ### B
 
-[Block Drivers](BlockDrivers.md)
+~~[Block Drivers](BlockDrivers.md)~~ (deprecated since Sandboxie v4.xx)
 
-[Block Fake Input](BlockFakeInput.md)
+~~[Block Fake Input](BlockFakeInput.md)~~ (deprecated since Sandboxie v4.xx)
 
 [Block Net Param](BlockNetParam.md)
 
@@ -30,17 +30,17 @@
 
 [Block Port](BlockPort.md)
 
-[Block Sys Param](BlockSysParam.md)
+~~[Block Sys Param](BlockSysParam.md)~~ (deprecated since Sandboxie v4.xx)
 
-[Block Win Hooks](BlockWinHooks.md)
+~~[Block Win Hooks](BlockWinHooks.md)~~ (deprecated since Sandboxie v4.xx)
 
 [Border Color](BorderColor.md)
 
 [Box Name Title](BoxNameTitle.md)
 
-[Box Root Folder](BoxRootFolder.md)
+~~[Box Root Folder](BoxRootFolder.md)~~ (deprecated since Sandboxie v3.xx)
 
-[Byte Order Mark](ByteOrderMark.md)
+~~[Byte Order Mark](ByteOrderMark.md)~~ (deprecated since Sandboxie v0.6.5 / 5.47.0)
 
 ### C
 
@@ -90,7 +90,7 @@
 
 [Expandable Variables](ExpandableVariables.md)
 
-[Experimental Protection](ExperimentalProtection.md)
+~~[Experimental Protection](ExperimentalProtection.md)~~ (removed since Sandboxie v4.02)
 
 ### F
 
@@ -142,7 +142,7 @@
 
 [Help Topics](HelpTopics.md)
 
-[How It Works](HowItWorks.md)
+[How It Works](HowitWorks.md)
 
 [How To Use Win Dbg](HowToUseWinDbg.md)
 
@@ -218,9 +218,9 @@
 
 [Privacy Concerns](PrivacyConcerns.md)
 
-[Process Limit 1](ProcessLimit1.md)
+~~[Process Limit 1](ProcessLimit1.md)~~ (deprecated)
 
-[Process Limit 2](ProcessLimit2.md)
+~~[Process Limit 2](ProcessLimit2.md)~~ (deprecated)
 
 [Program Name Prefix](ProgramNamePrefix.md)
 
@@ -336,9 +336,9 @@
 
 [SBIE1301](SBIE1301.md)
 
-[SBIE1303](SBIE1303.md)
+~~[SBIE1303](SBIE1303.md)~~ (deprecated since Sandboxie 5.31.4)
 
-[SBIE1304](SBIE1304.md)
+~~[SBIE1304](SBIE1304.md)~~ (deprecated)
 
 [SBIE1306](SBIE1306.md)
 
@@ -346,11 +346,11 @@
 
 [SBIE1308](SBIE1308.md)
 
-[SBIE1309](SBIE1309.md)
+~~[SBIE1309](SBIE1309.md)~~ (deprecated)
 
-[SBIE1310](SBIE1310.md)
+~~[SBIE1310](SBIE1310.md)~~ (deprecated since Sandboxie 5.31.4)
 
-[SBIE1311](SBIE1311.md)
+~~[SBIE1311](SBIE1311.md)~~ (deprecated)
 
 [SBIE1312](SBIE1312.md)
 

@@ -1,6 +1,6 @@
 # Block Drivers
 
-**This feature has been deprecated in SBIE version 4.+ and up. It is not longer supported.**
+**This feature has been deprecated in SBIE version 4.+ and up. It is no longer supported.**
 
 _BlockDrivers_ is a sandbox setting in [Sandboxie Ini](SandboxieIni.md). It specifies whether Sandboxie will allow sandboxed programs to load drivers into the operating system. However, this setting does _not_ govern the _installation_ of new drivers -- see more below.
 
@@ -34,4 +34,4 @@ OpenFilePath=c:\program files\MyNewSoftware\SoftwareDriver.sys
 
 **Note:** Allowing sandboxed programs to install drivers is not recommended.
 
-Related [Sandboxie Control](SandboxieControl.md) setting: [Sandbox Settings > Restrictions > Low-Level Access](RestrictionsSettings#lowlevel)
+Related [Sandboxie Control](SandboxieControl.md) setting: [Sandbox Settings > Restrictions > Low-Level Access](RestrictionsSettings.md#low-level-access--removed)

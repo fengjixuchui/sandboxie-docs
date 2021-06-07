@@ -10,7 +10,7 @@
 
 [Sandboxie Control](SandboxieControl.md) > [Help Menu](HelpMenu.md) > Help Topics (Web)
 
-Opens a web browser on the [Help Topics](HelpTopics.md) page of this online documentation. A window will open to ask if the web browser should run under the supervision of Sandboxie (recommended) or not. See [Getting Stated Tutorial (Web)](HelpMenu#tutorial) below.
+Opens a web browser on the [Help Topics](HelpTopics.md) page of this online documentation. A window will open to ask if the web browser should run under the supervision of Sandboxie (recommended) or not. See [Getting Stated Tutorial (Web)](HelpMenu.md#getting-started-tutorial-web) below.
 
 * * *
 
@@ -42,10 +42,10 @@ This command checks if the Sandboxie web site reports a newer version of Sandbox
 
 [Sandboxie Control](SandboxieControl.md) > [Help Menu](HelpMenu.md) > About Sandboxie
 
-Displays product and registration information for the Sandboxie program.
+Displays product ~~and registration~~ information for the Sandboxie program.
 
 ![](../Media/AboutSandboxie.png)
 
 * * *
 
-Go to [Sandboxie Control](SandboxieControl#menus), [Help Topics](HelpTopics.md).
+Go to [Sandboxie Control](SandboxieControl.md#menus), [Help Topics](HelpTopics.md).
